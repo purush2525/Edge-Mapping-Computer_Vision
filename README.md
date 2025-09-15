@@ -19,4 +19,6 @@ desired contour and denoises the region around it.
 
 ## Usage
 ```bash
+pip install -r requirements.txt
 streamlit run edge_map.py
+
